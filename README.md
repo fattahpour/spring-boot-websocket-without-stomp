@@ -1,1 +1,1 @@
-# spring-boot-websocket-without-stomp
+# Spring Boot Websocket Without Stomp
