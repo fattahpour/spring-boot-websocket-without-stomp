@@ -57,5 +57,5 @@ pom.xml.releaseBackup
 pom.xml.tag
 
 .settings/
-
-
+.sts4-cache/
+.vscode/
